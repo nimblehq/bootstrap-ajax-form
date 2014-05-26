@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Validate & Process Bootstrap Forms with Ajax
 ======
 
@@ -44,9 +43,3 @@ Bind the plugin to a form using the following syntax:
 			console.log('The form has been processed successfully');
 		}		
 	});
-=======
-bootstrap-ajax-form
-===================
-
-Validate &amp; Process Bootstrap Forms with Ajax
->>>>>>> d87ebca0b50046646635283b59c1274168dca776
