@@ -1,0 +1,9 @@
+{
+    "name": "n3-bootstrap-ajax-form",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "~0.4.4",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-uglify": "latest"
+    }
+}
